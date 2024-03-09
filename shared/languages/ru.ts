@@ -1019,11 +1019,11 @@ export const RU = {
    GrandBazaarFilters: "Фильтры",
    GrandBazaarFilterYouPay: "Вы платите",
    GrandBazaarFilterYouGet: "Вы получаете",
-   GrandBazaarFilterWarningHTML: "You must select a filter before any market trades are shown",
+   GrandBazaarFilterWarningHTML: "Вы должны выбрать фильтр, прежде чем будут показаны какие-либо рыночные сделки",
    SeaTradeUpgrade: "Торговля с игроками через море. Тариф для каждой морской плитки: %{tariff}",
    SeaTradeCost: "Стоимость морской торговли",
-   Server: "Server",
-   UseMirrorServer: "Use Mirror Server",
+   Server: "Сервер",
+   UseMirrorServer: "Использовать зеркальный сервер",
    UseMirrorServerDescHTML:
-      "If you have problems accessing the main server, you can connect to the mirror server instead. <b>Require restarting your game to take effect</b>",
+      "Если у вас возникли проблемы с доступом к основному серверу, вы можете вместо этого подключиться к зеркальному. <b>Чтобы изменения вступили в силу, необходимо перезапустить игру</b>",
 };
